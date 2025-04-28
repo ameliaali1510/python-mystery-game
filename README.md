@@ -1,5 +1,5 @@
 
-#Ravenswood Manor Mystery Game
+Ravenswood Manor Mystery Game
 
 Welcome to Ravenswood Manor, a text-based mystery game developed by a team of four using Python.
 
